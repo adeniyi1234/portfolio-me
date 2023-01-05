@@ -208,7 +208,7 @@ img {
   height: 40px;
   width: 40px;
   display: block;
-  line-height: 35px;
+  line-height: 45px;
   font-size: 35px;
   border-radius: 50%;
   position: absolute;
@@ -1028,7 +1028,7 @@ img {
   top: 15px;
   text-align: center;
   font-size: 35px;
-  line-height: 35px;
+  line-height: 45px;
   color: var(--text-black-600);
   cursor: pointer;
   transition: all 0.3s ease;
